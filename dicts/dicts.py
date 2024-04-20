@@ -9,8 +9,6 @@ gentilicos = [
     Carioca,
     Goiano,
     Maranhense,
-    Mato-grossense,
-    Mato-grossense-do-sul,
     Mineiro,
     Paraense,
     Paraibano,
